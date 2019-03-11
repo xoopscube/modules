@@ -1,9 +1,9 @@
 # Modules
-Extra modules to extend XOOPSCube
+Extra XOOPSCube modules to extend XCL - Web Application Platform.
 
 ## Branch
 
-Select the branch to download the module package
+Select the branch to download the module package:
 
 * <a href="https://github.com/xoopscube/modules/tree/myckeditor" target="_blank">myckeditor</a>
 * <a href="https://github.com/xoopscube/modules/tree/mydhtml" target="_blank">mydhtml</a>
