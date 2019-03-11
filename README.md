@@ -1,5 +1,7 @@
 # Modules
-Extra XOOPSCube modules to extend XCL - Web Application Platform.
+XOOPSCube modules with Legacy backwards compatibility.
+
+This avoids constraining new designs with legacy backwards compatibility issues and the design process is simplified to extend XCL - Web Application Platform.
 
 ## Branch
 
