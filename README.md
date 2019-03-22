@@ -1,4 +1,7 @@
 # Modules
+
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/2.0.0/active.svg)](https://www.repostatus.org/#active)
+
 XOOPSCube modules with Legacy backwards compatibility.
 
 This avoids constraining new designs with legacy backwards compatibility issues and the design process is simplified to extend XCL - Web Application Platform.
