@@ -14,6 +14,7 @@ Select the branch to download the module package:
 * <a href="https://github.com/xoopscube/modules/tree/mydhtml" target="_blank">mydhtml</a>
 * <a href="https://github.com/xoopscube/modules/tree/pm" target="_blank">pm</a>
 * <a href="https://github.com/xoopscube/modules/tree/system" target="_blank">system</a>
+* <a href="https://github.com/xoopscube/modules/tree/xupdate_master" target="_blank">xupdate_master</a>
 
 ## Installation
 
